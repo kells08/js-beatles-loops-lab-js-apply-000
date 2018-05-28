@@ -10,7 +10,7 @@ function johnLennonFacts(facts) {
   const excited = []
   var i = 0;
   while (i < facts.length) {
-  johnLennonFacts.push(`${facts}!!!`)
+  excited.push(`${facts}!!!`)
   i++;
   }
 }
